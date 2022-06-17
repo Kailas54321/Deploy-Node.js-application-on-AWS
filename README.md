@@ -13,6 +13,7 @@ Install node version manager (nvm) by typing the following at the command line.
 
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
 
+nvm install 16
 Activate nvm by typing the following at the command line.
 
 . ~/.nvm/nvm.sh
